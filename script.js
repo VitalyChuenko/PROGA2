@@ -1,0 +1,3 @@
+function sayOK () {
+    alert ('Привіт!')
+}
